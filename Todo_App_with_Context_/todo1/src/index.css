@@ -1,0 +1,16 @@
+.container input{
+  width: 100%;
+  margin-left: 1rem;
+  padding:  .5rem .4rem;
+  font-size: 1.2rem;
+  border: 0;
+  outline: none;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.delete {
+  border: 1px solid yellow;
+  width: 6rem !important;
+  margin-left: 2.8rem !important;
+}
