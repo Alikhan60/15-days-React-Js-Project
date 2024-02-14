@@ -1,0 +1,15 @@
+.space{
+  letter-spacing: 2px;
+  font-size: 5rem ;
+  /* color: aquamarine; */
+  /* background-color: azure; */
+}
+.btn {
+  width: 300px !important;
+  height: 50px;
+  padding: 1rem;
+  margin-top: 1rem;
+  border-radius: 10px;
+ padding-top: 1rem;
+ font-size: 1.5rem !important;
+}
